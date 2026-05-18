@@ -41,3 +41,18 @@ Built for zero-downtime operations, the Core Orchestrator features runtime excep
 cd safescale_ai
 source venv/bin/activate
 cp .env.example .env
+
+
+
+
+---
+
+## 🔗 Connect With Me & Explore the Project
+
+If you want to track the development of **SafeScale AI** or discuss enterprise integration for your cluster, let's connect:
+
+*   **GitHub Repository**: 🐙 Explore the source code, open issues, or star the project at [github.com/absence77/safescale-ai-core](https://github.com/absence77/safescale-ai-core)
+*   **Telegram Channel**: 📢 Join my community where I share my journey from DevOps engineering to building AI-driven infrastructure architecture: [@devops_to_ai](https://t.me/devops_to_ai)
+*   **Medium Profile**: 📝 Follow my future deep-dives and engineering articles on autonomous systems: [@ahmad.gayibov](https://medium.com/@ahmad.gayibov)
+
+*Feel free to fork the repository, contribute pull requests, or drop a message if you are looking to run a FinOps pilot program in your own cloud infrastructure!*
