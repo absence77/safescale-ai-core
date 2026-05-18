@@ -1,0 +1,20 @@
+# Секреты и конфигурация
+.env
+.env.local
+
+# Виртуальное окружение Python
+venv/
+ENV/
+env/
+
+# Кэш Python и артефакты компиляции
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Системные файлы Mac/Linux
+.DS_Store
+Thumbs.db
